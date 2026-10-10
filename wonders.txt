@@ -1,3 +1,7 @@
 name : Taj Mahal
 
 country: India
+
+name : Great wall of China 
+
+counntry : new wonder added
